@@ -1,0 +1,33 @@
+html, body {
+    font-size: 16px;               
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(7,7,54,1) 25%, rgba(35,76,93,1) 76%);
+}
+.box {
+    width: 80%;
+    background: white;
+    margin: 0 auto;    
+    padding: 1rem;             
+}
+.title {
+    margin: 0;   
+    padding: 1rem 0;             
+    font-size: 1.5rem;
+    font-weight: bold;   
+    border-bottom: 1px solid #c6c6c6;                
+}
+.content {
+    border: 1px solid #c6c6c6;
+    margin: 1rem 0;
+    padding: 1rem;
+}
+table {
+    width: 50%;
+    text-align: center; 
+    border-collapse: collapse;                 
+    margin: 1rem auto;                            
+}
+table th, table td {
+    border: 1px solid #c6c6c6;                
+    padding: 0 1rem;               
+}    
